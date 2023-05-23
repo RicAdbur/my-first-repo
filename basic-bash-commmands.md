@@ -11,3 +11,4 @@ mkdir <directory-name> - makes new directory at current location
 touch <filename> - makes file in current location
 
 clear - clears terminal window
+
